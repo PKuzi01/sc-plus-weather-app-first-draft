@@ -1,4 +1,4 @@
-### ### SheCodes Plus Final Project: Weather App (First Attempt)
+### SheCodes Plus Final Project: Weather App (First Attempt)
 #### Authored by Philisizwe Kuzwayo
 ---
 
