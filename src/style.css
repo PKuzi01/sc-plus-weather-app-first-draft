@@ -1,0 +1,185 @@
+body {
+    background: linear-gradient(180deg, rgb(246, 114, 128) 0%, rgb(192, 108, 132) 97%);
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+}
+
+.fiveDay {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: #543370;
+    font-size: x-large;
+}
+
+.container {
+    margin: 20px auto;
+    background: #eed3c7;
+    padding: 20px;
+    border-radius: 10px;
+}
+.searchBar {
+   border: #f75b6b 2px solid;
+   background-color: #f67280;
+   color: #922933;
+   border-radius: 17px;
+   box-shadow: 3px 3px 5px;
+   font-family: 'Lato', sans-serif;
+   padding: 8px 20px;
+}
+
+.searchBar:hover {
+    background-color: #f0b6bc;
+    transition: all 150ms ease-in-out;
+}
+
+.searchButton {
+    border: #f75b6b 2px solid;
+    background-color: #f67280;
+    color: #922933;
+    border-radius: 17px;
+    box-shadow: 3px 3px 5px;
+    font-family: 'Lato', sans-serif;
+    padding: 8px 20px;
+}
+.searchButton:hover {
+    background-color: #f0b6bc;
+    transition: all 150ms ease-in-out;
+}
+
+.currentLocation {
+    border: #f75b6b 2px solid;
+    background-color: #f67280;
+    color: #922933;
+    border-radius: 17px;
+    box-shadow: 3px 3px 5px;
+    font-family: 'Lato', sans-serif;
+    padding:8px 20px;
+}
+.currentLocation:hover {
+    background-color: #f0b6bc;
+    transition: all 150ms ease-in-out;
+}
+
+.themeButton {
+    border: #f75b6b 2px solid;
+    background-color: #f67280;
+    color: #922933;
+    border-radius: 17px;
+    box-shadow: 3px 3px 5px;
+    font-family: 'Lato', sans-serif;
+    padding: 8px 20px;
+}
+
+.themeButton:hover {
+    background-color: #f0b6bc;
+    transition: all 150ms ease-in-out;
+}
+
+.generalHeading{
+    font-family: 'Montserrat', sans-serif;
+    color: #362149;
+    font-weight: bold;
+}
+
+.date {
+    font-family: 'Lato', sans-serif;
+    color: #543370;
+}
+
+.description {
+    font-family: 'Lato', sans-serif;
+    color: #543370;
+}
+
+
+.place {
+    font-family: 'Lato', sans-serif;
+    color: #543370;
+}
+
+.temp {
+    font-family: 'Lato', sans-serif;
+    color: #543370;
+}
+
+
+
+.feelsLike {
+    font-family: 'Lato', sans-serif;
+    color: #543370;
+}
+
+.windSpeed {
+    font-family: 'Lato', sans-serif;
+    color: #543370;
+}
+
+.humidity {
+    font-family: 'Lato', sans-serif;
+    color: #543370;
+}
+
+.signature {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: #543370;
+    font-size: medium;
+}
+
+.github {
+    text-decoration-line: none;
+}
+
+.darkTheme {
+    background: linear-gradient(180deg, rgb(94, 99, 182) 0%, rgb(39, 41, 109) 100%);
+}
+
+.darkTheme .container {
+    background-color: #a393eb;
+}
+
+.darkTheme .searchBar {
+    border: #424699 2px solid;
+    background-color: #5e63b6;
+    color: #323577;
+}
+
+.darkTheme .searchBar:hover {
+    background-color: #b7b9e9;
+    transition: all 150ms ease-in-out;
+}
+
+.darkTheme .searchButton {
+    border: #424699 2px solid;
+    background-color: #5e63b6;
+    color: #323577;
+}
+
+.darkTheme .searchButton:hover {
+    background-color: #b7b9e9;
+    transition: all 150ms ease-in-out;
+}
+
+.darkTheme .currentLocation {
+    border: #424699 2px solid;
+    background-color: #5e63b6;
+    color: #323577;
+}
+
+.darkTheme .currentLocation:hover {
+    background-color: #b7b9e9;
+    transition: all 150ms ease-in-out;
+}
+
+.darkTheme .themeButton {
+    border: #424699 2px solid;
+    background-color: #5e63b6;
+    color: #323577;
+}
+
+.darkTheme .themeButton:hover {
+    background-color: #b7b9e9;
+    transition: all 150ms ease-in-out;
+}
